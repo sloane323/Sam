@@ -1,0 +1,30 @@
+ [ {
+    "id": "ruby",
+    "label": "ruby",
+    "value": 309,
+    "color": "hsl(281, 70%, 50%)"
+  },
+  {
+    "id": "sass",
+    "label": "sass",
+    "value": 337,
+    "color": "hsl(167, 70%, 50%)"
+  },
+  {
+    "id": "make",
+    "label": "make",
+    "value": 134,
+    "color": "hsl(333, 70%, 50%)"
+  },
+  {
+    "id": "hack",
+    "label": "hack",
+    "value": 311,
+    "color": "hsl(289, 70%, 50%)"
+  },
+  {
+    "id": "go",
+    "label": "go",
+    "value": 297,
+    "color": "hsl(94, 70%, 50%)"
+  } ]
